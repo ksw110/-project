@@ -1,5 +1,5 @@
 # 📎 MONDA(팀명:MONDA 메이커스)
-![image](MONDA.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MONDA!&fontSize=90" />
 
 
 ## 👀 서비스 소개
