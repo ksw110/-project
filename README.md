@@ -80,10 +80,6 @@
 ![monda11](https://user-images.githubusercontent.com/120652126/218670111-8e8365a3-87e4-4b5a-96a6-982ee6c6c0fd.png)
 <br>
 
-## 📌 서비스 흐름도
-![image](https://user-images.githubusercontent.com/25995055/178401048-d6484bda-a2d7-40e1-998b-2bd195cd9f89.png)
-<br>
-
 ## 📌 데이터베이스 설계
 ![monda12](https://user-images.githubusercontent.com/120652126/218670583-bb7f4526-7e96-45cd-b4a0-4a6c87724fbc.png)
 <br>
@@ -119,23 +115,23 @@
     <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
   </tr>
   <tr>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
+    <td align="center"><strong>장서연</strong></td>
+    <td align="center"><strong>윤효창</strong></td>
+    <td align="center"><strong>김시우</strong></td>
+    <td align="center"><strong>이경영</strong></td>
+    <td align="center"><strong>장예슬</strong></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Frontend</b></td>
     <td align="center"><b>Backend</b></td>
     <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Deep Learning</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Backend</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/ksw110" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
   </tr>
