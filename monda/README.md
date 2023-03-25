@@ -1,5 +1,5 @@
 # 📎 MONDA(팀명:MONDA 메이커스)
-![image](MONDA.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MONDA!&fontSize=90" />
 
 
 ## 👀 서비스 소개
@@ -11,6 +11,9 @@
 2023.01.05 ~ 2023.01.20 (2주)
 <br>
 
+## 👀 시연영상
+![ezgif com-resize](https://user-images.githubusercontent.com/120652126/218685109-fea9e518-ae85-49a0-8eb2-6357c1b07e12.gif)
+<br>
 ## ⭐ 주요 기능
 * 워크스페이스
 * 코드차트
@@ -72,36 +75,39 @@
 
 <br>
 
-## ⚙ 시스템 아키텍처(구조) 예시 
-![서비스 아키텍처](https://user-images.githubusercontent.com/25995055/169925538-15867bd9-aa0b-42fc-a39b-88981e926e51.png)
+## ⚙ 시스템 아키텍처(구조)
+![monda14](https://user-images.githubusercontent.com/120652126/218669720-e182d22d-083b-46f5-b56d-b2c86d303f0b.png)
 <br>
 
 ## 📌 SW유스케이스
-![image](https://user-images.githubusercontent.com/25995055/178401023-9a015e66-aa6e-4d74-8564-9b1f9d306649.png)
+![monda11](https://user-images.githubusercontent.com/120652126/218670111-8e8365a3-87e4-4b5a-96a6-982ee6c6c0fd.png)
 <br>
 
-## 📌 서비스 흐름도
-![image](https://user-images.githubusercontent.com/25995055/178401048-d6484bda-a2d7-40e1-998b-2bd195cd9f89.png)
-<br>
-
-## 📌 ER다이어그램
-![image](https://user-images.githubusercontent.com/25995055/169925318-102784c2-893f-4fd7-bec9-a54c44b669d4.png)
+## 📌 데이터베이스 설계
+![monda12](https://user-images.githubusercontent.com/120652126/218670583-bb7f4526-7e96-45cd-b4a0-4a6c87724fbc.png)
 <br>
 
 ## 🖥 화면 구성
 
-### 로그인/회원가입/회원괸리/회원수정/회원탈퇴
-![image](https://user-images.githubusercontent.com/25995055/178401098-95f15a0e-a2de-415e-83d5-883bb4cb0656.png)
+### 워크스페이스/채팅페이지/워크스페이스 연동 캘린더/ 코드블럭
+![monda15](https://user-images.githubusercontent.com/120652126/218670875-c648029b-e4ee-4d13-8568-1d07119b2266.png)
 <br>
 
-### 옷 정보/코디 추천(날씨, 팁, 오늘의 코디, 참고할 수 있는 코디)
-![image](https://user-images.githubusercontent.com/25995055/178401127-287e6de2-4396-49fc-a107-59c4d5cd55c7.png)
+### 요청에 들어온 목록들을 드래그&드랍으로 이동
+![monda16](https://user-images.githubusercontent.com/120652126/218671415-6fd1c052-2f23-4262-87d1-4d372b4adf0b.png)
 <br>
 
-### 일정/고객센터
-![image](https://user-images.githubusercontent.com/25995055/178401150-861f0e93-0f40-4fae-98c1-2099bf513c8d.png)
+### 일정 확인 및 워크스페이스 일정 자동연결
+![monda17](https://user-images.githubusercontent.com/120652126/218671424-6d2c6a6b-7cbb-4a77-a235-8424dc5d30b1.png)
 <br>
 
+### 파일 업로드에 따른 코드블럭 업데이트 기능 // GIT HUB 디자인 참고
+![monda18](https://user-images.githubusercontent.com/120652126/218671478-1706b60d-1295-4b0d-9696-8d1cb441f89d.png)
+<br>
+
+### 사용자와 실시간 채팅기능 /웹 소켓 라이브러리를 통해 개발
+![monda19](https://user-images.githubusercontent.com/120652126/218671515-6e95ceea-1522-49f5-9a92-24391810d146.png)
+<br>
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
@@ -112,23 +118,23 @@
     <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
   </tr>
   <tr>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
+    <td align="center"><strong>장서연</strong></td>
+    <td align="center"><strong>윤효창</strong></td>
+    <td align="center"><strong>김시우</strong></td>
+    <td align="center"><strong>이경영</strong></td>
+    <td align="center"><strong>장예슬</strong></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Frontend</b></td>
     <td align="center"><b>Backend</b></td>
     <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Deep Learning</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Backend</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/ksw110" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
   </tr>
